@@ -1,1 +1,2 @@
-# GitSummerPractice2023
+# Git
+# Centric Summer Practice 2023
