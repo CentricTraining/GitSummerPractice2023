@@ -1,2 +1,2 @@
 # Git
-# Centric Summer Practice 2023 modificare
+# Centric Summer Practice 2023
