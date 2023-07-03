@@ -100,8 +100,6 @@ Donec pretium, nibh nec commodo posuere, mi elit rhoncus ligula, sed tristique d
 
 Integer blandit metus turpis, vel luctus sem semper eget. In hac habitasse platea dictumst. Suspendisse scelerisque tempor auctor. Nam hendrerit neque a arcu sollicitudin, eget fringilla quam convallis. Etiam eleifend sodales fringilla. Etiam ut arcu id diam imperdiet porttitor ac quis odio. Vivamus vel cursus felis. Sed ut malesuada neque. Donec porttitor urna a sem luctus pharetra.
 
-Mai ai de citit. Stai jos, ai 4.
-
 Ai ajuns la jumatate
 
 Fusce venenatis pharetra ligula. Vivamus posuere luctus quam dignissim maximus. In hac habitasse platea dictumst. In consectetur libero urna, eu congue arcu ornare ut. Sed consequat purus nec urna consectetur cursus. Vivamus in est nec magna dignissim aliquet quis at justo. Vestibulum finibus odio leo, vitae suscipit massa vulputate eu.
